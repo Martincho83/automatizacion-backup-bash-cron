@@ -1,4 +1,4 @@
-# Proyecto 4: Automatización de Backups con Bash y Cron
+# Automatización de Backups con Bash y Cron
 
 ## 1. Descripción del Proyecto
 
