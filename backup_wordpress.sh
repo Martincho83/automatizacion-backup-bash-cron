@@ -2,7 +2,7 @@
 
 # --- Variables de Configuración ---
 DB_USER="wordpress_user"
-DB_PASS="password" # ¡CAMBIA ESTO!
+DB_PASS="password123"
 DB_NAME="wordpress_db"
 
 # Directorio donde se guardarán las copias de seguridad
